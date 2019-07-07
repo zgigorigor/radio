@@ -6,7 +6,7 @@
      Author: Igor Bistrovic
     Company: 
     Project: AutoLife
-    Version: 0.0.1
+    Version: 0.0.2
 UpdateNotes: 
  Change log: 
  19/07/07:   - created "README.txt"
@@ -20,7 +20,10 @@ UpdateNotes:
                                     Debug
                                     Release
                                     log/debug.log
-
+ 19/07/07:   - updated ".gitignore":
+                                    bin/*.ini
+             - deleted radio.py 
+             - rename radio_v2.0.py radio.py
 ####
 
 ####    ----    ####
